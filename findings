@@ -1,0 +1,28 @@
+
+# Findings – Task 7: Browser Extension Security
+
+## Extensions Analyzed
+
+1. **McAfee WebAdvisor Extension**
+
+   * **Purpose:** Helps ensure safe browsing, blocks harmful websites, and provides online threat protection.
+   * **Permissions:** Needs access to browsing activities to identify malicious content.
+   * **Assessment:** Considered safe (legitimate security tool from a verified publisher).
+
+## Suspicious Extensions
+
+* No suspicious or unauthorized extensions were detected during the review.
+
+## Review Process
+
+1. Opened the Chrome Extensions page (`chrome://extensions/`).
+2. Checked the list of installed extensions.
+3. Examined the McAfee extension to confirm vendor authenticity.
+4. Cross-verified requested permissions with the extension’s intended functionality.
+5. Since no risks were found, no extensions were disabled or removed.
+
+## Outcome / Actions Taken
+
+* Retained the McAfee extension (identified as trustworthy).
+* Recorded the review process and included screenshots as evidence.
+
